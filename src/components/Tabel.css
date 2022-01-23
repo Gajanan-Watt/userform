@@ -1,8 +1,11 @@
-table, th, td, tr{
-    border: 1px solid black;
-}
+/* table,
+th,
+td,
+tr {
+  border: 1px solid black;
+} */
 
-table{
-    margin: auto;
-    width: 40%;
+table {
+  margin: auto;
+  width: 40%;
 }
